@@ -3,5 +3,6 @@ The Cognitive-Wellbeing-Monitoring project is an innovative initiative aimed at 
 
 Key Features:
 
+
 Data Collection: The platform collects various types of data, including physiological signals, behavioral patterns, and subjective feedback from users.
 Machine Learning Algorithms: Advanced machine learning algorithms analyze the collected data to identify patterns, trends, and anomalies related to cognitive wellbeing.
